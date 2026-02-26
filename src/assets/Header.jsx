@@ -7,7 +7,7 @@ function Header() {
             <div className='container-flex'>
 
 
-                <nav className="navbar navbar-dark bg-warning">
+                <nav className="navbar navbar-dark bg-lite pb-4 pt-4">
                     <div className="container justify-content-center">
                         <ul className="navbar-nav d-flex flex-row gap-4">
                             <Link to={"/"}>
