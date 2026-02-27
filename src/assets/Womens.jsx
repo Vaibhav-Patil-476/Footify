@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Woman() {
+function Womens() {
   return (
     <div>Woman</div>
   )
 }
 
-export default Woman
+export default Womens

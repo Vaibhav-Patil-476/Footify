@@ -14,25 +14,25 @@ function Header() {
                                 <img src='https://coolfootwear.netlify.app/static/media/brand.1356b354e46d75d0c876.png' style={{ height: "50px" }} />
                             </Link>
                             <li className="nav-item">
-                                <Link className="nav-link text-black" to="/">MAN</Link>
+                                <Link className="nav-link text-black" to="/men">MEN</Link>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link text-black" to="/about">WOMAN</Link>
+                                <Link className="nav-link text-black" to="/womens">WOMENS</Link>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link text-black" to="/login">ALLPRODUCTS</Link>
-                            </li>
-
-                            <li className="nav-item">
-                                <Link className="nav-link text-black" to="/login">ABOUT</Link>
+                                <Link className="nav-link text-black" to="/allproducts">ALLPRODUCTS</Link>
                             </li>
 
                             <li className="nav-item">
-                                <Link className="nav-link text-black" to="/login">CONTACT</Link>
+                                <Link className="nav-link text-black" to="/about">ABOUT</Link>
                             </li>
 
                             <li className="nav-item">
-                                <Link className="nav-link text-black" to="/login">ADMIN LOGIN</Link>
+                                <Link className="nav-link text-black" to="/contact">CONTACT</Link>
+                            </li>
+
+                            <li className="nav-item">
+                                <Link className="nav-link text-black" to="/adminlogin">ADMIN LOGIN</Link>
                             </li>
 
 
